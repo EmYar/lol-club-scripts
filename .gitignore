@@ -1,0 +1,5 @@
+venv/
+.idea/
+client_secret.json
+credentials.json
+settings.py
